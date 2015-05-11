@@ -1,3 +1,0 @@
-sproyect_tarea_homepage:
-    path:     /hello/{name}
-    defaults: { _controller: SproyectTareaBundle:Default:index }
